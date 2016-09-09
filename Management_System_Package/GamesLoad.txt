@@ -1,0 +1,10 @@
+Assassins Cread,Action/RPG,1,4,2
+Grand Theft Auto,Open World,7,5,1
+Uncharted,Shooter/RPG,10,2,19
+Crash Bandicoot,Family,17,3,30
+Earthbound,Family,20,5,76
+Uncharted 2 Among Thieves, Shooter/RPG,21,3,45
+Hitman Blood Money, Shooter,22,1,80
+Soul Caliber,Horror,23,4,14
+Grand Theft Auto III,Family,14,4,9
+Metal Gear Solid 3 Snake Eater,Stealth,25,5,2

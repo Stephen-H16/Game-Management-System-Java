@@ -1,0 +1,20 @@
+Assassins Cread,Action/RPG,1,4,12
+Zelda,Family,2,5,5
+Dune,Horror,3,1,16
+Sonic,Family,4,4,89
+Baldur's Gate 2,Family,5,2,9
+Dune 3,Horror,6,3,14
+Grand Theft Auto,Open World,7,5,2
+Chrono Trigger,Family,8,4,54
+Zelda The Wind Waker,Family,9,4,1
+Uncharted,Shooter/RPG,10,2,4
+Donkey Kong Country,Family,11,2,37
+Earthworm Jim,Family,12,3,2
+Assassins Cread BloodRun,Family,13,5,3
+Grand Theft Auto III,Family,14,4,9
+Baldur's Gate 2,Family,15,3,2
+The Elder Scrolls V: Skyrim,Family,16,2,50
+Crash Bandicoot,Family,17,3,1
+Chrono Trigger,Family,18,2,63
+Crash Bandicoot 2,Family,19,1,10
+Earthbound,Family,20,5,7
